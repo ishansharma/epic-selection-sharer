@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Epic Sharer\n"
+"POT-Creation-Date: 2016-06-16 13:01+0530\n"
+"PO-Revision-Date: 2016-06-16 13:49+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: epic-sharer.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: epic-sharer.php:36
+msgid "Twitter via text"
+msgstr "Twitter via text"
+
+#: epic-sharer.php:39
+msgid ""
+"Enter user handle that should be added after link (e.g. for \"via @epictions"
+"\", enter epictions)"
+msgstr ""
+"Enter user handle that should be added after link (e.g. for \"via @epictions"
+"\", enter epictions)"
+
+#: epic-sharer.php:45
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: epic-sharer.php:48
+msgid "Enter your Facebook App ID to enable Facebook icon in sharer."
+msgstr "Enter your Facebook App ID to enable Facebook icon in sharer."
+
+#: epic-sharer.php:56
+msgid "Click here to create an app"
+msgstr "Click here to create an app"
+
+#: epic-sharer.php:62
+msgid "Instructions for creating apps"
+msgstr "Instructions for creating apps"
+
+#: epic-sharer.php:72
+msgid "Show sharer on"
+msgstr "Show sharer on"
+
+#: epic-sharer.php:76
+msgid "Posts"
+msgstr "Posts"
+
+#: epic-sharer.php:77
+msgid "Pages"
+msgstr "Pages"
+
+#: epic-sharer.php:78
+msgid "Home Page"
+msgstr "Home Page"
+
+#: titan-framework-checker.php:72
+msgid "Titan Framework needs to be installed for Epic Sharer to work."
+msgstr "Titan Framework needs to be installed for Epic Sharer to work."
+
+#: titan-framework-checker.php:75
+msgid "Click here to search for the plugin."
+msgstr "Click here to search for the plugin."
+
+#: titan-framework-checker.php:82
+msgid "Titan Framework needs to be activated for Epic Sharer to work."
+msgstr "Titan Framework needs to be activated for Epic Sharer to work."
+
+#: titan-framework-checker.php:85
+msgid "Click here to go to the plugins page and activate it."
+msgstr "Click here to go to the plugins page and activate it."
+
+#. Plugin Name of the plugin/theme
+msgid "Epic Sharer"
+msgstr "Epic Sharer"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://medium.com/p/want-highlight-sharing-like-medium-on-your-wordpress-"
+"blog-use-epic-sharer-62b82388094"
+msgstr ""
+"https://medium.com/p/want-highlight-sharing-like-medium-on-your-wordpress-"
+"blog-use-epic-sharer-62b82388094"
+
+#. Description of the plugin/theme
+msgid ""
+"Simple medium like sharing for Twitter and other social networks, based on "
+"Selection Sharer (https://github.com/xdamman/selection-sharer)"
+msgstr ""
+"Simple medium like sharing for Twitter and other social networks, based on "
+"Selection Sharer (https://github.com/xdamman/selection-sharer)"
+
+#. Author of the plugin/theme
+msgid "Ishan"
+msgstr "Ishan"
+
+#. Author URI of the plugin/theme
+msgid "http://ishan.co"
+msgstr "http://ishan.co"
