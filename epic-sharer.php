@@ -4,7 +4,7 @@ Plugin Name: Epic Sharer
 Plugin Script: epic-sharer.php
 Plugin URI: https://medium.com/p/want-highlight-sharing-like-medium-on-your-wordpress-blog-use-epic-sharer-62b82388094
 Description: Simple medium like sharing for Twitter and other social networks, based on Selection Sharer (https://github.com/xdamman/selection-sharer)
-Version: 2.1
+Version: 2.2
 Author: Ishan
 Author URI: http://ishan.co
 Text Domain: epic-selection-sharer
@@ -152,6 +152,4 @@ _EPIC_CONFIG_;
 	}
 }
 
-if ( class_exists( 'TitanFramework' ) ) {
-	new EpicSharer();
-}
+new EpicSharer();

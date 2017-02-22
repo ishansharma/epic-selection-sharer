@@ -3,8 +3,8 @@ Contributors: ishan001
 Donate link: https://www.paypal.com/cgi-bin/webscr?&cmd=_xclick&business=ishan.sharma001@gmail.com&currency_code=USD&amount=5&item_name=Donation%20fo%20Epic%20Sharer%20Plugin
 Tags: social, share, sharing, twitter, email
 Requires at least: 4
-Tested up to: 4.5.2
-Stable tag: 2.1
+Tested up to: 4.7.2
+Stable tag: 2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,7 +50,10 @@ No. Only posts, pages and home page are supported as of now.
 
 == Changelog ==
 
-= 2.1 -
+= 2.2 =
+* Bugfix: Plugin could stop working under some conditions
+
+= 2.1 =
 * Setting foundation for i18n. 
 * Minor bugfix to make plugin look correct on 2016 theme
 
